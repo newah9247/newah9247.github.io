@@ -7,3 +7,53 @@ Date: December 4th 2022
 
 CSS for the work examples portion of my web page
 */
+
+
+/*paragraph styles*/ 
+aside > p {
+    text-align: center;
+    color: rgb(187, 162, 116);
+    font-weight: bold;
+    border-style: double;
+    border-color: orange;
+    border-width: 5px;
+    font-size: xx-large;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+/*link styles*/ 
+.gitlink {
+    display: block;
+    text-align: center;
+    font-size: xx-large;
+    color: purple;
+
+}
+
+
+/*evening out the nav bar*/ 
+nav {
+    padding-right: 200px;
+}
+
+/*image styles*/ 
+.github {
+    width: 1500px;
+    height: 700px;
+    justify-content: center;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*footer styles*/ 
+.footer  {
+    background-color: orangered;
+    color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: medium;
+}
+

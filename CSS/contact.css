@@ -93,6 +93,7 @@ footer > p {
     font-size: medium;
 }
 
+/*Wrapper*/ 
 .flex-wrapper {
     display: flex;
     min-height: 100vh;
