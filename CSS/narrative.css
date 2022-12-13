@@ -1,9 +1,21 @@
 @charset "utf-8";
 
-p {
+
+/*Paragraph Styles*/
+article > p {
     color: rgb(187, 162, 116);
     text-align: left;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: x-large;
     padding-left: 25px;
 }
+
+footer > p {
+    background-color: orangered;
+    color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: medium;
+}
+
+
